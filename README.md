@@ -1,1 +1,1 @@
-# Smith-Strategy-Tutorial
+# Smith-Strategy-Tutorial - readme file
